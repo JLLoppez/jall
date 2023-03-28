@@ -16,3 +16,5 @@ function Preloader () {
         </div>
     );
 }
+
+export default Preloader;
